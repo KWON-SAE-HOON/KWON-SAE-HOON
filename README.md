@@ -3,6 +3,7 @@
 ## Research Interests
 - Reinforcement Learning
 - Climate Modeling
+- Battery SOH
 - Prognostics and Health Management
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KWON-SAE-HOON&show_icons=true)
