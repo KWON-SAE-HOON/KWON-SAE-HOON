@@ -5,8 +5,9 @@
 - Climate Modeling
 - Battery SOH
 - Prognostics and Health Management
+- 
+# KWON-SAE-HOON GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact&theme=tokyonight" height="165" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact&theme=tokyonight)
