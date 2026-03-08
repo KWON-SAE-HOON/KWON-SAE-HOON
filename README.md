@@ -6,6 +6,7 @@
 - Battery SOH
 - Prognostics and Health Management
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact&theme=default)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact&theme=default" />
+</div>
