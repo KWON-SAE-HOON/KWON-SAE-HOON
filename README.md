@@ -7,6 +7,6 @@
 - Prognostics and Health Management
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KWON-SAE-HOON&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KWON-SAE-HOON&layout=compact&theme=tokyonight" height="165" />
 </p>
