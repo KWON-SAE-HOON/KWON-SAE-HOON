@@ -6,7 +6,7 @@
 - Battery SOH
 - Prognostics and Health Management
 
-All research are private repo
+All researches are private repo
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KWON-SAE-HOON&show_icons=true) 
 
