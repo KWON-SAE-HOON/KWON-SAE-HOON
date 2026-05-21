@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=권세훈%20깃허브&fontSize=90&)
-
 ## Research Interests
 - Reinforcement Learning
 - Climate Modeling
