@@ -8,6 +8,8 @@
 ## Skills
 - python
 - C++
+- JAVA
+- R
 - mariaDB, SQL
 - AWS
 <img width="1050" height="506" alt="image" src="https://github.com/user-attachments/assets/826ce766-b4f4-498c-bf28-22d17d14f9ca" />
