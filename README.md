@@ -7,7 +7,6 @@
 - Battery SOH
 - Prognostics and Health Management
 - NLP
-- Operation Research
 
 ## Skills
 - python
